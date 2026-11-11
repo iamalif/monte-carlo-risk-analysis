@@ -1,0 +1,12 @@
+{
+  "retrieved_utc": "2026-10-21T13:44:22.264274+00:00",
+  "source": "Yahoo Finance chart API; Yahoo Finance historical pages listed in report",
+  "symbols": [
+    "INTC",
+    "SSAB-A.ST",
+    "SEK=X"
+  ],
+  "requested_start": "2009-10-01",
+  "requested_end_exclusive": "2026-07-01",
+  "field_used": "close"
+}

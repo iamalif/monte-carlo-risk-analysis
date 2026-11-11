@@ -1,0 +1,6 @@
+"metric","value"
+"minimum_beds_simulation",64
+"minimum_beds_exact",64
+"maximum_absolute_grid_difference",0.000915731405568887
+"offered_load_beds",42.92
+"accepted_load_beds_at_40",37.6142652603005
